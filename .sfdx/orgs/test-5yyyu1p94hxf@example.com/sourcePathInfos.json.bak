@@ -1,0 +1,242 @@
+[
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1550414610000,
+            "changeTime": 1550414608963,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1550414581000,
+            "changeTime": 1550414581741,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1550414581000,
+            "changeTime": 1550414581744,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1550414581000,
+            "changeTime": 1550414581747,
+            "contentHash": "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1550414581000,
+            "changeTime": 1550414581749,
+            "contentHash": "d5a5b9d2cb446cdaf429f39c1fc03504220dafd5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/test.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/test.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1550414531378,
+            "changeTime": 1550414531853,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/test.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/test.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 52,
+            "modifiedTime": 1550414580132,
+            "changeTime": 1550414580132,
+            "contentHash": "ff8968d43bebe44d5f6055a9f28a1502f58fccf4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/test.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/test.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 236,
+            "modifiedTime": 1550414531376,
+            "changeTime": 1550414531828,
+            "contentHash": "66ae9f066953bae5cf6c2b84f7c2cd8439a7a2b8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/test.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/test.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1550414531377,
+            "changeTime": 1550414531842,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/test.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/test.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1550414531379,
+            "changeTime": 1550414531857,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/test.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/test.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1550414531378,
+            "changeTime": 1550414531849,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/testController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/testController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1550414531376,
+            "changeTime": 1550414531833,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/testHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/testHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1550414531377,
+            "changeTime": 1550414531836,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/testRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/aura/test/testRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550414531377,
+            "changeTime": 1550414531845,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1550414497000,
+            "changeTime": 1550414497743,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Testing Git/LearningSFDX",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1550414785000,
+            "changeTime": 1550414783265,
+            "contentHash": "d0e9beefe74c92d79f611fe05afd7a2460ce6fe8",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
